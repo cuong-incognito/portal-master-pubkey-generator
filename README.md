@@ -1,4 +1,4 @@
-# BTC Master PubKeys Generators
+# BTC Master PubKeys Generator
 
 - ***Input:*** Incognito Private Mining Keys
 - ***Output:*** BTC Master PubKeys used for Portal V4
