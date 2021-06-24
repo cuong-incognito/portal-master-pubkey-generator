@@ -1,6 +1,6 @@
 # BTC Master PubKeys Generator
 
-- ***Input:*** Incognito Private Mining Keys
+- ***Input:*** Incognito Private Mining Keys (Mining Key could be also called Private Seed or Validator Key)
 - ***Output:*** BTC Master PubKeys used for Portal V4
 
 ## USAGE
